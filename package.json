@@ -3,7 +3,7 @@
   "private": true,
   "name": "angular-phonecat",
   "description": "A tutorial application for AngularJS",
-  "repository": "",
+  "repository": "https://github.com/haili042/my-angular-phonecat.git",
   "license": "MIT",
   "devDependencies": {
     "karma": "^0.12.16",
